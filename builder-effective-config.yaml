@@ -1,9 +1,0 @@
-directories:
-  output: dist
-  buildResources: build
-appId: com.coderjeet.autoupdater
-productName: Autoupdater Test 01
-win:
-  target: nsis
-files: []
-electronVersion: 19.1.9
