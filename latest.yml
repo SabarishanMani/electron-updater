@@ -1,8 +1,0 @@
-version: 1.0.3
-files:
-  - url: Autoupdater-Test-01-Setup-1.0.3.exe
-    sha512: T3+4ujjOuEUjB/oF83vcGpLP8FOXznoSPSN5AWl+O25W3TsQBP8/Wxemjz5OFAbqwAdWZn9xt4Vr50wwxiSYQw==
-    size: 63758692
-path: Autoupdater-Test-01-Setup-1.0.3.exe
-sha512: T3+4ujjOuEUjB/oF83vcGpLP8FOXznoSPSN5AWl+O25W3TsQBP8/Wxemjz5OFAbqwAdWZn9xt4Vr50wwxiSYQw==
-releaseDate: '2022-12-15T04:22:03.811Z'
